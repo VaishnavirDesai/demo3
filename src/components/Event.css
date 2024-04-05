@@ -1,0 +1,49 @@
+.img1{
+    height: 450px;
+    margin-top: 70px;
+    filter: blur(2px);
+}
+.E51{
+    font-size: 50px;
+    color:white;
+    font-weight: bold;
+    text-shadow:6px 6px  black;
+  /* margin-top: 150px; */
+}
+.E52{
+    background: rgba(126, 215, 183, 0.2);
+    border: 1px solid rgb(246, 241, 241);
+    height: 200px;
+    width: 600px;
+    margin-top: 220px;
+     padding-top: 60px;
+    margin-left: 300px;
+    text-align: center;
+}
+.E53{
+    font-size: 20px;
+    font-weight: 400;
+    margin-left: 30px;
+    margin-top: 30px;
+    border: 5px solid  rgb(165, 164, 71);
+    padding: 10px 40px  10px 40px;
+    border-radius: 50px;
+}
+.E53:hover{
+        color: white;
+        background-color:rgb(165, 164, 71) ;
+}
+.E54{
+    margin-top: 50px;
+    font-size: 60px;
+}
+.E6{
+    height: 300px;
+    width: 500px;
+}
+.E7{
+    height: 150px;
+    width: 1500px;
+    margin-top: 10px;
+    margin-left: 50px;
+}
